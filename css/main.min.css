@@ -19352,11 +19352,11 @@ form textarea:required:valid {
     margin-top: 0
 }
 
-.no-touch .mxd-approach-list__item:hover .mxd-approach-list__image img {
+/* .no-touch .mxd-approach-list__item:hover .mxd-approach-list__image img {
     -webkit-animation-play-state: running;
     -moz-animation-play-state: running;
     animation-play-state: running
-}
+} */
 
 .mxd-approach-list__border {
     position: relative;
